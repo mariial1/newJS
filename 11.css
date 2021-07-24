@@ -1,9 +1,23 @@
+.product{
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.product-card{
+    height: 260px;
+    width: 200px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
 .product-image{
-    display: block;
-    margin-block-start: 30px;
-    margin-block-end: 30px;
-    margin-inline-start: 10px;
-    margin-inline-end: 10px;
-    padding-inline-start: 40px;
+    height: 200px;
+    width: 200px;
+}
+
+.one{
+    width: 900px;
+    text-align: justify;
 }
 
