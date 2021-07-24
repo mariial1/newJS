@@ -1,0 +1,9 @@
+.product-image{
+    display: block;
+    margin-block-start: 30px;
+    margin-block-end: 30px;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+    padding-inline-start: 40px;
+}
+
